@@ -184,3 +184,5 @@ Success criteria:
 - Ties are resolved by ascending document id.
 - Core tests cover blank text, short text, repeated tokens, diacritics, CJK, mixed scripts, and limit behavior.
 - No Spring, database, controller, DTO, persistence, or API work is included in this milestone.
+
+To continue this session, run codex resume 019f5baf-fcce-7943-a830-502f9a87e258
